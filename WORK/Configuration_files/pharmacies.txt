@@ -1,0 +1,1 @@
+{"Wer.ru": "https://wer.ru", "Ваша №1": "https://vn1.ru", "Антей": "https://aptekaantey.ru", "ГорАптека": "https://www.gorapteka.ru", "ВАптеке": ["https://spb.vapteke.ru", "https://spb.vapteke.ru/search?s="], "Мегаптека": ["https://megapteka.ru", "https://megapteka.ru/search?q="]}
